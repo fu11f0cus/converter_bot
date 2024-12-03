@@ -8,7 +8,7 @@ import aiofiles
 import PyPDF2
 from docx import Document
 
-TOKEN = '6612465409:AAE4AeMt-cMXswcYxSWz8nFGIat_nBAP0lY'
+TOKEN = ""
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
